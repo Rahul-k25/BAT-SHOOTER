@@ -1,5 +1,5 @@
 ### **BAT-SHOOTER**
-# A 3D game made in Unity and Written in C#. 
+# A 3D game Built on Unity Engine and Written in C#. 
 
 This Game comes under Arcade category. In this game Player with first person view standing on floating surface somewhere in the sapce.
 So many bats comes around player now player job is to kill as many bat he can cause he cannot hold his breath for long time.

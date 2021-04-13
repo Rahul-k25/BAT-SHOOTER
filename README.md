@@ -6,7 +6,7 @@ So many bats comes around player now player job is to kill as many bat he can ca
 Now the twist is player can also get power-up like more oxygen or more time but if player shoot wrong block then he has suffer the consequences by loosing 3 seconds.
 
 # Game Starts by showing this Page
-<img align='left' src="https://github.com/Rahul-k25/BAT-SHOOTER/blob/master/Box%20Shooter/Image/Screenshot%20(67).png" width="100%"></br></br>
+<img align='left' src="https://github.com/Rahul-k25/BAT-SHOOTER/blob/master/Box%20Shooter/Image/Screenshot%20(67).png" width="100%"><br><br>
 
 # Next Page
 <img align='left' src="https://github.com/Rahul-k25/BAT-SHOOTER/blob/master/Box%20Shooter/Image/Screenshot%20(68).png" width="100%"></br></br>

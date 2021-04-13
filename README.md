@@ -1,11 +1,8 @@
-# BAT-SHOOTER
-A 3D game made in Unity and Written in C#.
+### BAT-SHOOTER
+#A 3D game made in Unity and Written in C#. 
 
-Pls try and give me your feedback !!
-This was my first game and I will now try to work in its UI
+This Game comes under Arcade category. In this game Player with first person view standing on floating surface somewhere in the sapce.
+So many bats comes around player now player job is to kill as many bat he can cause he cannot hold his breath for long time.
+Now the twist is player can also get power-up like more oxygen or more time but if player shoot wrong block then he has suffer the consequences by loosing 3 seconds.
 
-If anyone wants to work on this project with me, they are welcome.
-If you find a issue,pls start one and we will see what's the problem!
-
-We will soon update the game in Play store and microsoft store
-Pls try and review !
+<img align='left' src="https://github.com/Rahul-k25/BAT-SHOOTER/blob/master/Box%20Shooter/Image/Screenshot%20(67).png" width="100%">
